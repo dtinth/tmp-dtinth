@@ -1,0 +1,13 @@
+{
+  "name": "dtinth",
+  "description": "A collection of personal extensions to tmp.spacet.me",
+  "contributes": {
+    "integrations": {
+      "image-shader": {
+        "title": "Image shader",
+        "accept": ["image/*"],
+        "url": "https://dtinth-image-shader.glitch.me/"
+      }
+    }
+  }
+}
