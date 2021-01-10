@@ -1,5 +1,5 @@
 # tmp-dtinth
-Personal tmp.spacet.me extension
+Personal [tmp.spacet.me](https://tmp.spacet.me/) extension
 
 ## Extension URL
 
